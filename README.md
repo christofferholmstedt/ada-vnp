@@ -10,6 +10,14 @@ project](http://github.com/christofferholmstedt/dva501-master-thesis-report).
 ### Status
 As of January 2014 this work is about to start.
 
+### Workflow
+"Git-flow" workflow should be used for structuring the code instructions on
+git-flow is found
+[here](http://nvie.com/posts/a-successful-git-branching-model/). There is also
+a collection of git extensions available at [Github project
+nvie/gitflow](http://github.com/nvie/gitflow), though there is no need to use
+that if you don't want to.
+
 ### Coding guidelines
 [Ada Quality and Style Guide](https://en.wikibooks.org/wiki/Ada_Style_Guide).
 Focus must be put on readability and maintainability.
