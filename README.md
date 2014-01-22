@@ -11,7 +11,7 @@ project](http://github.com/christofferholmstedt/dva501-master-thesis-report).
 As of January 2014 this work is about to start.
 
 ### Coding guidelines
-[Ada Quality and Style Guide](https://en.wikibooks.org/wiki/Ada_Style_Guide)
+[Ada Quality and Style Guide](https://en.wikibooks.org/wiki/Ada_Style_Guide).
 Focus must be put on readability and maintainability.
 
 ##### Exceptions
