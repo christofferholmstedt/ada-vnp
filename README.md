@@ -24,3 +24,7 @@ version numbers on releases.
 
 ### License
 Not decided yet (January 2014).
+
+### Issue tracker
+The issue tracker on Github in this project will be used for all master thesis
+related work, including questions about research methods and report details.
