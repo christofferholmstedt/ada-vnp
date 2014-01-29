@@ -1,5 +1,7 @@
-Ada-VNP
+OLD PROJECT NO LONGER IN USE
 =======
+Only keeping this project online until this README has been copied to the new code repositories.
+
 This repository includes the code for Virtual Network Protocol (VNP) middleware
 written in Ada. Related project exists at [Github vn-sdm
 project](https://github.com/virtual-network/vn-sdm), written in C and C++. The
